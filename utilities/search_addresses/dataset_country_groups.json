@@ -1,0 +1,22 @@
+{
+    "GROCERY AND GOURMET": {
+        "overrepresented_countries": ["USA", "China", "Italy", "Canada", "India"],
+        "underrepresented_countries": ["Brazil", "New Zealand", "Greece", "Belgium", "Philippines", "Indonesia", "Costa Rica"]
+    },
+    "MUSICAL INSTRUMENTS": {
+        "overrepresented_countries": ["China", "USA", "Taiwan", "Canada"],
+        "underrepresented_countries": ["Nepal", "Vietnam", "Malaysia", "Philippines", "Denmark", "Austria"]
+    },
+    "VIDEO GAMES": {
+        "overrepresented_countries": ["China", "USA"],
+        "underrepresented_countries": ["Hong Kong", "Canada"]
+    },
+    "BEAUTY": {
+        "overrepresented_countries": ["China", "USA", "France"],
+        "underrepresented_countries": ["Austria", "Egypt", "Hungary", "Portugal", "Bulgaria"]
+    },
+    "MOVIE LENS": {
+        "overrepresented_countries": ["USA", "GB", "FR"],
+        "underrepresented_countries": ["IE", "JP", "KR", "HK", "CN"]
+    }
+}
