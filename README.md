@@ -11,13 +11,14 @@ ProtoCulturalDiversity is a the code base for the paper "Embedding Cultural Dive
 - [License](#license)
 
 ## Citations
+```
 @article{moradi2024embedding,
   title={Embedding Cultural Diversity in Prototype-based Recommender Systems},
   author={Moradi, Armin and Neophytou, Nicola and Carichon, Florian and Farnadi, Golnoosh},
   journal={arXiv preprint arXiv:2412.14329},
   year={2024}
 }
-
+```
 ## Installation
 
 To get started with ProtoCulturalDiversity, clone the repository and install the required dependencies:
@@ -86,7 +87,7 @@ The repository is organized as follows:
 
 ## Acknowledgements
 This codebase extends and builds upon the outstanding work presented in "ProtoMF: Prototype-based Matrix Factorization for Effective and Explainable Recommendations" by Alessandro B. Melchiorre, Navid Rekabsaz, Christian Ganhör, and Markus Schedl at RecSys 2022.
-
+```
 @inproceedings{melchiorre2022protomf,
     title = {ProtoMF: Prototype-based Matrix Factorization for Effective and Explainable Recommendations},
     author = {Melchiorre, Alessandro B. and Rekabsaz, Navid and Ganhör, Christian and Schedl, Markus},
@@ -98,7 +99,7 @@ This codebase extends and builds upon the outstanding work presented in "ProtoMF
     doi = {10.1145/3523227.3546756},
     isbn = {978-1-4503-9278-5/22/09}
 }
-
+```
 Funding support for project activities has been partially provided by Canada CIFAR AI Chair, and Facebook award. We also express
 our gratitude to Compute Canada and Mila for their support in providing compute resources, software and technical help for our evaluations.
 
