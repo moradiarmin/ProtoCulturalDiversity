@@ -4,11 +4,14 @@ ProtoCulturalDiversity is a the code base for the paper "Embedding Cultural Dive
 
 ## Table of Contents
 
+- [Citations](#citations)
 - [Installation](#installation)
+- [Data](#data)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
+
 
 ## Citations
 ```
